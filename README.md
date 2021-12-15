@@ -1,2 +1,2 @@
 # sdrangel-qo100
-My profile settings for receiving qo100 with bcn freq tracking
+Voici la config que j'utilise pour recevoir QO-100 avec sdrangel, en compensant la dérive de la lnb avec le module AFC.
